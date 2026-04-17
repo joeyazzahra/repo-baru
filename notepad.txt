@@ -2,3 +2,7 @@ materi 1
 pengen pulang
 ayo pulang
 kapan pulang
+
+materi 2:
+1 ini
+2 itu
